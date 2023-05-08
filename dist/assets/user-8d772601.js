@@ -1,1 +1,0 @@
-import{r as e}from"./index-fc906e2e.js";const o=s=>e.post("zwz/api/user/login",s),t=s=>e.post("zwz/api/user/judgeRegisterd",{email:s}),n=s=>e.post("zwz/api/user/register",s),i=()=>e.get("zwz/api/user/getInfo"),a=s=>(console.log("req",s),e.post("zwz/api/user/modifyInfo",s)),u=s=>e.post("zwz/api/user/modifyPas",s);export{u as a,i as g,t as j,a as m,n as r,o as v};

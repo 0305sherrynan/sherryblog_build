@@ -1,0 +1,1 @@
+import{h as t,b as o,B as r,C as a,o as s}from"./entry.8e4c1383.js";const c={};function n(e,l){return s(),o("div",null,[r(" 默认布局 "),a(e.$slots,"default")])}const f=t(c,[["render",n]]);export{f as default};

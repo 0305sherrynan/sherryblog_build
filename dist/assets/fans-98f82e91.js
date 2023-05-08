@@ -1,1 +1,0 @@
-import{r as o}from"./index-fc906e2e.js";const t=s=>(console.log("开始执行"),o.post("zwz/api/fans/focus",{id:s})),n=s=>o.post("zwz/api/fans/focus/verify",{id:s}),a=()=>o.get("zwz/api/fans/focus"),e=s=>o.get(`zwz/api/fans/focus/${s}`),r=s=>(console.log("开始执行"),o.post("zwz/api/fans/focus/cancel",{id:s}));export{a,r as c,n as f,e as g,t as p};

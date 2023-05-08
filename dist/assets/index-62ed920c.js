@@ -1,1 +1,0 @@
-const s=e=>e<10?"0"+e:e,i=e=>{const t=new Date(Date.parse(e));t.setTime(t.setHours(t.getHours()));const o=t.getFullYear()+"/",n=s(t.getMonth()+1)+"/",r=s(t.getDate())+" ",c=s(t.getHours())+":",a=s(t.getMinutes())+":",g=s(t.getSeconds());return o+n+r+c+a+g},u=()=>i(new Date().toString());export{u as c,i as f};

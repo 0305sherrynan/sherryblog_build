@@ -1,1 +1,0 @@
-import{r}from"./index-fc906e2e.js";const i=()=>r.get("zwz/api/article"),a=t=>r.get(`zwz/api/article/sort/${t}`),c=t=>r.post("zwz/api/article",t),s=()=>r.get("zwz/api/article/sort"),n=t=>r.get(`zwz/api/article/${t}`);export{s as a,n as b,a as c,i as g,c as s};
