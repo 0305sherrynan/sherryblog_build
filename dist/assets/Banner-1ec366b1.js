@@ -1,0 +1,1 @@
+import{k as e,e as n,f as _}from"./index-dd2ca572.js";const s={},t={class:"banner",style:{animation:"header-effect 1s"}};function c(a,o){return n(),_("div",t)}const d=e(s,[["render",c],["__scopeId","data-v-465633e7"]]);export{d as B};
